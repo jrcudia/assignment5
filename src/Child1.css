@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.radio-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.dropdown-month {
+    display: flex;
+    justify-content: center;
+}
+
+.dropdown-month label {
+    margin-right: 5px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+.svg-div {
+    display: flex;
+    justify-content: center;
+}
+
+
